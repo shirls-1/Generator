@@ -1,0 +1,53 @@
+button {
+  display: block;
+  padding: 12px 18px;
+  border-radius: 5px;
+  background-color: #e0d4fc;
+  border: 1px solid red;
+  font-size: 25px
+}
+
+h1 {
+  font-size: 50px;
+  font-family: fantasy;
+}
+
+.pink {
+  display: block;
+  padding: 12px 18px;
+  border-radius: 5px;
+  background-color: yellow;
+  border: 4px dashed pink;
+  color: black;
+  font-size: 25px;
+}
+
+.hide {
+  display: none;
+  height: 200px;
+  object-fit: cover;
+}
+
+.two {
+  display: none;
+  padding: 12px 18px;
+  border-radius: 5px;
+  background-color: #e0d4fc;
+  border: 1px solid red;
+  font-size: 25px
+}
+
+img {
+  height: 200px;
+  object-fit: cover;
+}
+
+.text {
+  display: block;
+  /* margin: 10px; */
+  border-radius: 5px;
+  background-color: #e0d4fc;
+  border: 1px solid red;
+  font-size: 25px;
+  text-align: center;
+}
